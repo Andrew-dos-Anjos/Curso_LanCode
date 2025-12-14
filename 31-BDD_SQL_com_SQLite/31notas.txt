@@ -1,0 +1,1 @@
+OBS.: Sempre usar INTEGER & PRIMARY KEY para o id. AUTOINCREMENT só é útil caso necessário não reutilizar indices deletados e o NOT NULL com PRIMARY KEY se torna redundante.
