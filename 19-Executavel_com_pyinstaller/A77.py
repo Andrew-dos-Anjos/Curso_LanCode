@@ -4,7 +4,7 @@ os.system('msg * "Olá, mundo!"') # Windows
 os.system('notify-send "Olá, mundo!" "Esta é uma mensagem de teste"') # Linux
 
 # source .venv/bin/activate  # Linux (cd pasta_exata)
-# pip install pyinstaller
+# pip install PyInstaller
 # pyinstaller --onefile arquivo.py
 # Dist
 
