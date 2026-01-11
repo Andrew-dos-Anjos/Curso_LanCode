@@ -1,0 +1,9 @@
+Olá, mundo!Texto que vem depois
+
+"r" 	Read (leitura)	    Abre o arquivo para leitura. Erro se não existir.
+"w" 	Write (escrita)	    Cria ou sobrescreve o arquivo.
+"a" 	Append (acréscimo)	Abre para escrita no fim do arquivo, sem apagar o conteúdo existente.
+"x" 	Exclusive creation	Cria um novo arquivo, erro se já existir.
+"r+"	Read + Write    	Abre para leitura e escrita. Erro se não existir.
+"w+"	Write + Read    	Cria ou sobrescreve, permite leitura e escrita.
+"a+"	Append + Read       Abre para acrescentar e ler. Cria se não existir.
