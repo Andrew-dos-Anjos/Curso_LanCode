@@ -34,7 +34,7 @@ print(texto)
 
 # Listar arquivos de uma pasta:
 pasta = Path("pasta")
-for arquivo in pasta.iterdir: # .glob("*.txt") para apenas arq .txt ou outro especifico
+for arquivo in pasta.iterdir(): # .glob("*.txt") para apenas arq .txt ou outro especifico
     print(arquivo)
 
 # Outros modos de pegar o nome de um arquivo:
