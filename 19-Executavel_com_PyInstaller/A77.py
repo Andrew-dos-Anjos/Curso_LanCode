@@ -8,7 +8,7 @@ os.system('notify-send "Olá, mundo!" "Esta é uma mensagem de teste"') # Linux
 # pyinstaller --onefile arquivo.py
 # Dist
 
-# --icon=icon.ico
+# pyinstaller --icon=icon.ico arquivo.py
 # https://icon-icons.com/search?q=python
 
-# --noconsole
+# pyinstaller --noconsole arquivo.py (para execultar sem visualizar)
